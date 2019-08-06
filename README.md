@@ -15,11 +15,11 @@ Our team includes members from the two Universities working on the PULP program,
 
 Now we are hiring in China!!! Greenwaves Technologies, as a growing and highly multicultural team with sharp personalities, need talented, enthusiastic, curious and committed people who will be ready to bring energy into the system for a significant contribution to the success of the team project. Greenwaves Technology as a team is very proud of its specific collaborative management style. Our Technology is very much ahead of the state-of-art, and our chip is just about to prove its revolutionary potential on a wide opened global market. For a team, it is a very motivating challenge that each of us has the opportunity to be part of in proportion to our own enthusiasm at work. The company is and will be what we each of us make of it, as we experience it, every day.
 
-[We-Want-You]: we_want_u.jpg
+![We-Want-You](we_want_u.jpg)
 
-* [China Business Development]: https://github.com/GreenWaves-Technologies/we_want_you/blob/master/China%20Business%20Development.pdf
+* [China Business Development](https://github.com/GreenWaves-Technologies/we_want_you/blob/master/China%20Business%20Development.pdf)
 
-* [China Feild Application Engineer]: https://github.com/GreenWaves-Technologies/we_want_you/blob/master/Field%20Application%20Engineer%20China.pdf
+* [China Feild Application Engineer](https://github.com/GreenWaves-Technologies/we_want_you/blob/master/Field%20Application%20Engineer%20China.pdf)
 
 
 Other opportunities will comming soon !!!
